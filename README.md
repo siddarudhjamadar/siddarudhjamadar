@@ -9,7 +9,7 @@ Welcome to my GitHub profile. I'm a passionate developer with expertise in vario
 
 - 🌱 **Currently Learning:**
   - Exploring new technologies
-  - Enhancing my skills in [specific area]
+  - Enhancing my skills in Web Development
 
 - 💻 **Skills:**
   - Java
